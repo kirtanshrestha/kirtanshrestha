@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanshrestha&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanshrestha" /> </p>
 
-- 🔭 I’m currently working on **C# projects along with finding internships.**
+- 🔭 I’m currently working on Backend with NestJS as an intern.
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kirtanshrestha?tab=repositories](https://github.com/kirtanshrestha?tab=repositories)
 
